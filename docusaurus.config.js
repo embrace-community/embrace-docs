@@ -50,7 +50,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Embrace Community",
         logo: {
           alt: "Embrace",
           src: "img/logo.svg",
