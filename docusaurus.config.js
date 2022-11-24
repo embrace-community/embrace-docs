@@ -4,9 +4,13 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
+// DOESN'T SEEM TO WORK
+// const lightCodeTheme = require("./themes/light");
+// const darkCodeTheme = require("./themes/dark");
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Embrace Communities",
+  title: "Embrace Community",
   tagline: "Helping sovereign communities thrive",
   url: "https://docs.emabrace.community",
   baseUrl: "/",
@@ -112,8 +116,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Embrace Community`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: theme,
+        darkTheme: theme,
       },
     }),
 };
