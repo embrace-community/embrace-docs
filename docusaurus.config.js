@@ -4,10 +4,6 @@
 const lightCodeTheme = require("prism-react-renderer/themes/github");
 const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
-// DOESN'T SEEM TO WORK
-// const lightCodeTheme = require("./themes/light");
-// const darkCodeTheme = require("./themes/dark");
-
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Embrace Community",
@@ -41,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/embrace-community/embrace-docs/tree/main/docs",
+            "https://github.com/embrace-community/embrace-docs/tree/main/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
