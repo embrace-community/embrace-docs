@@ -116,8 +116,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Embrace Community`,
       },
       prism: {
-        theme: theme,
-        darkTheme: theme,
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
       },
     }),
 };
