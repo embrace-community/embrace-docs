@@ -59,7 +59,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Lite Paper",
+            label: "Why Embrace?",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
