@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to="/docs/intro"
           >
-            Find out more
+            Why Embrace?
           </Link>
         </div>
       </div>
