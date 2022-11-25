@@ -1,13 +1,43 @@
-import React, { useEffect } from "react";
-import { useHistory } from "react-router-dom";
+import React from "react";
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
-// Before we have a proper landing page, redirect to the docs
-export default function RedirectToDocs() {
-  const history = useHistory();
+import styles from "./index.module.css";
 
-  useEffect(() => {
-    history.push("/docs/intro");
-  }, []);
+function HomepageHeader() {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <header className={clsx("hero hero--primary", styles.heroBanner)}>
+      <div className="container">
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/intro"
+          >
+            Find out more
+          </Link>
+        </div>
+      </div>
+    </header>
+  );
+}
 
-  return <div>index</div>;
+export default function Home(): JSX.Element {
+  const { siteConfig } = useDocusaurusContext();
+  return (
+    <Layout
+      title={`${siteConfig.title}`}
+      description="We are Embrace Community: a platform focused on supporting sovereign decentralised communities in the new era of the web."
+    >
+      <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
+    </Layout>
+  );
 }
