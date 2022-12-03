@@ -57,9 +57,9 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "about-embrace/philosophy",
             position: "left",
-            label: "Why Embrace?",
+            label: "Lite Paper",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
@@ -76,8 +76,8 @@ const config = {
             title: "Docs",
             items: [
               {
-                label: "Introduction",
-                to: "/docs/intro",
+                label: "About Embrace",
+                to: "docs/about-embrace/philosophy",
               },
             ],
           },

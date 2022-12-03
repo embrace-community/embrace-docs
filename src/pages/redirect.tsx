@@ -6,7 +6,7 @@ export default function RedirectToDocs() {
   const history = useHistory();
 
   useEffect(() => {
-    history.push("/docs/intro");
+    history.push("/docs/why-embrace/philosophy");
   }, []);
 
   return <div>index</div>;
