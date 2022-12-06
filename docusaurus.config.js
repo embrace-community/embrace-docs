@@ -57,7 +57,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "about-embrace/philosophy",
+            docId: "intro/philosophy",
             position: "left",
             label: "Lite Paper",
           },

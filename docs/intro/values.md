@@ -1,6 +1,16 @@
 ---
-sidebar_position: 2
+sidebar_position: 4
 ---
+
+# Core Values
+
+- Sovereignty
+- Decentralization
+  - Governance, Ownership and Infrastructure
+- Creativity
+- Collaboration
+- Unity
+- Diversity
 
 # Principles
 
