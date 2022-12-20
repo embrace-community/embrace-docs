@@ -6,6 +6,8 @@ sidebar_position: 2
 
 Distorted by profit motivation: the primary goal is profit not community.
 
+Does not prioritise the health of individuals or communities on the platform. The implementation often profits from toxic communication and benefits from altercations.
+
 Survelliance Capitalism is a term to describe the new
 form of capitalism that has emerged in the digital age. It is a system in which
 the primary goal is not to serve the community but to extract as much profit as
