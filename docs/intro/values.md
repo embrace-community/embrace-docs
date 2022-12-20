@@ -4,6 +4,7 @@ sidebar_position: 4
 
 # Core Values
 
+- Community
 - Sovereignty
 - Decentralization
   - Governance, Ownership and Infrastructure
@@ -11,8 +12,10 @@ sidebar_position: 4
 - Collaboration
 - Unity
 - Diversity
+- Censorship resistance
+- Openness
 
-### Principles
+<!-- ### Principles -->
 
 <!-- Principles are referred to in order to ensure we make the correct decisions. They help us actualise our values.
 
@@ -22,10 +25,10 @@ You can build a personal value system based on principles, which will help you a
 
 <!-- https://medium.com/the-mission/the-difference-between-principles-and-values-789b95452422#:~:text=In%20Covey's%20view%2C%20principles%20are,they%20may%20change%20over%20time. -->
 
-- Community
+<!-- - Community
   - community first / Non-profit
 - Liberty
 - Censorship resistance
 - Openness
   - Open source
-- Decentralisation
+- Decentralisation -->
