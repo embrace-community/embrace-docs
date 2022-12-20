@@ -14,6 +14,7 @@ sidebar_position: 4
 - Diversity
 - Censorship resistance
 - Openness
+  - Open source
 
 <!-- ### Principles -->
 
