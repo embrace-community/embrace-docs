@@ -2,10 +2,9 @@
 sidebar_position: 3
 ---
 
-# Our Solution
+# A New Possibility
 
-Curation instead of censorship
-Built in such a way that use is permission-less so we cannot stop anyone adding data to Embrace. We can curate and choose not to index certain spaces if the DAO agrees that they are not suitable / illegal. There is nothing to stop anyone using Embrace and anyone can create a space and host it on their own site without the need to access the Embrace site.
+<!-- Curation instead of censorship -->
 
 - Community first / Non-profit
   - The primary aim is to support communities in the new era of the web
@@ -21,7 +20,8 @@ Built in such a way that use is permission-less so we cannot stop anyone adding 
   - Curation instead of censorship
 - Open Source
 - Community decision making
-
   - DAO
 
-  https://www.humanetech.com/key-issues
+Built in such a way that use is permission-less so we cannot stop anyone adding data to Embrace. We can curate and choose not to index certain spaces if the DAO agrees that they are not suitable / illegal. There is nothing to stop anyone using Embrace and anyone can create a space and host it on their own site without the need to access the Embrace site.
+
+<!-- https://www.humanetech.com/key-issues -->
