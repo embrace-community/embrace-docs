@@ -77,7 +77,7 @@ const config = {
             items: [
               {
                 label: "About Embrace",
-                to: "docs/about-embrace/philosophy",
+                to: "docs/intro/philosophy",
               },
             ],
           },
