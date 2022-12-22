@@ -8,7 +8,7 @@ Community is central to who we are as human beings; it has been with us since th
 
 We are at a pivotal moment in human history and communities will play a vital role in meeting the new opportunities and challenges that face us in the 21st century.
 
-Creativity and Collaboration are the pillars that hold communities together and it is important that we have platforms that prioritise and nuture these activities in order to create healthy communities.
+Creativity and Collaboration are the pillars that hold communities together and it is important that we have platforms that prioritise and nurture these activities in order to create healthy communities.
 
 <!-- Healthy and strong communities are the foundation to a healthy humanity.
 

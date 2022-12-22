@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Current Circumstance
 
-Distorted by profit motivation: the primary goal is profit not community.
+Distorted by profit motivation: the primary goal is profit not community. Extracts profits from community
 
-Does not prioritise the health of individuals or communities on the platform. The implementation often profits from toxic communication and benefits from altercations.
+Does not prioritise the health of individuals or communities on the platform. The implementation often profits from toxic communication and benefits from conflict.
 
 Survelliance Capitalism is a term to describe the new
 form of capitalism that has emerged in the digital age. It is a system in which
