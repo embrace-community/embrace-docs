@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: "Decentralised",
-    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
+    Svg: null,
     description: (
       <>
         Decentralisation is essential for healthy communities to prosper.
@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Community first",
-    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
+    Svg: null,
     description: (
       <>
         Community comes first. Embrace is non-profit and built with the sole
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: "Open",
-    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
+    Svg: null,
     description: (
       <>
         Embrace is open source and open to contributions. We believe in the

@@ -2,28 +2,17 @@
 sidebar_position: 2
 ---
 
-# Current Circumstance
+# Current Problem
 
-Distorted by profit motivation: the primary goal is profit not community. Extracts profits from community
+The problem we see is that Social Media has become a distorted expression of community.
+These platforms are often more focused on revenue than being aligned with the true values of community.
 
-Does not prioritise the health of individuals or communities on the platform. The implementation often profits from toxic communication and benefits from conflict.
+The business model of these platforms is centred around surveillance capitalism which profits through harvesting and selling the information of it’s users. Only a small portion of profit is shared amongst the communities that use the platform.
 
-Survelliance Capitalism is a term to describe the new
-form of capitalism that has emerged in the digital age. It is a system in which
-the primary goal is not to serve the community but to extract as much profit as
-possible from the it. This is done by exploiting the community's data
-and by manipulating the community's behavior.
+These organisations are always centralised, giving them absolute power and making censorship common place. This disempowers content creators as they can lose their community instantly if they are de-platformed.
 
-Tracking, advertisements, manipulating behaviour to encourage more use. Not concerned with the health of individuals or the communities they are part of.
-
-Centralised, monopoly over data. De-platforming. Censoring.
-
-All profit generated is centralised by the owners of the platform instead of decentralised among the user's of the platform which contribute to the content of the community.
-
-- Profit first
-  - community second - metrics to measure profit but not health of communities
-  - Profit generated is given to owners and not users
-- Surveillance capitalism -> advertising -> Manipulation of behaviour
+- Profit first and Community second
+- Surveillance capitalism -> Advertisement model -> Manipulation of behaviour
 - Centralisation
   - Monopoly of information
   - Censorship
@@ -33,5 +22,3 @@ All profit generated is centralised by the owners of the platform instead of dec
   - Algorithms used against the individual without knowledge of how they work
 - Private decision making
   - Decision making does not invole the community
-
-<!-- Watch the social dilemma for insights -->

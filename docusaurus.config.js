@@ -51,8 +51,8 @@ const config = {
     ({
       navbar: {
         logo: {
-          alt: "Embrace",
-          src: "img/logo.svg",
+          alt: "Embrace Community",
+          src: "img/logos/embrace-earth-web.png",
         },
         items: [
           {
